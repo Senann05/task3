@@ -1,0 +1,13 @@
+#root{
+    text-align: center;
+padding-top: 1px;
+
+}
+.container{
+    align-items: center;
+    box-sizing: border-box;
+    width: 270px;
+    height: 310px;
+    background-color: rgb(255, 172, 37);
+    border: 1px solid black;
+} 
